@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi there, I'm Mohammed Osman👦,<br>A Full Stack Web developer🎯 from India.<br><br>👨‍💻 Full Stack MERN Developer<br>💻Learn Web Development<br>📚 What do I believe? Jack of all, Master of some.
 
@@ -24,7 +22,7 @@ Hi there, I'm Mohammed Osman👦,<br>A Full Stack Web developer🎯 from India.<
 [![](https://visitcount.itsvg.in/api?id=Advmosman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**Advmosman/Advmosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Advmosman/Advmosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--Here are some ideas to get you started:
 
