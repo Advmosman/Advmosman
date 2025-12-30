@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+# 💫 About Me:
 Hi there, I'm Mohammed Osman👦,<br>A Full Stack Web developer🎯 from India.<br><br>👨‍💻 Full Stack MERN Developer<br>💻Learn Web Development<br>📚 What do I believe? Jack of all, Master of some.
 
 
